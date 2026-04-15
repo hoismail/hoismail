@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1>Welcome! My name is Houssein 👋</h1>
 
-<!--
-**hoismail/hoismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="www.linkedin.com/in/houssein-ismail-07889826b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Who Am I? 🤔
+
+Hey there, I’m **Houssein** — a Cloud Infrastructure Engineer, Security enthusiast, and aspiring Cloud Security & DevSecOps Engineer.
+
+I'm passionate about:
+- ☁️ Cloud Infrastructure & Security
+- ⚙️ DevOps, Automation & Scalable Systems
+- 🛠 Building Real-World, Hands-On Projects
+
+I also build projects, learn daily, and document everything along the way.
+
+## Languages, Tools, and Frameworks ⚙️
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=azure" /> 
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://cdn.simpleicons.org/splunk/65A637" height="48" />
+</p>
