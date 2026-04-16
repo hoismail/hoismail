@@ -17,7 +17,7 @@ I'm passionate about:
 - ⚙️ DevOps, Automation & Scalable Systems
 - 🛠 Building Real-World, Hands-On Projects
 
-I also build projects, learn daily, and document everything along the way.
+I also build projects, learn daily, and document it along the way.
 
 ## Languages, Tools, and Frameworks ⚙️
 
